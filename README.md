@@ -34,5 +34,4 @@ Understanding how classes and objects are used to structure and organize larger 
 
 📁 [Open Object-Oriented Programming](./05_Object_Oriented_Programming)
 
-📁 [open Recurrsiom](./01_Basics)
 
