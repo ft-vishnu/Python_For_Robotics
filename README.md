@@ -1,6 +1,6 @@
 # Python for Robotics
 
-A structured repository documenting my journey through Python, covering the programming concepts required to build a strong foundation for robotics and automation.
+A structured repository of ```Python Programming Language```, covering the programming concepts required to build a strong foundation for robotics and automation.
 
 ## Learning Path
 
