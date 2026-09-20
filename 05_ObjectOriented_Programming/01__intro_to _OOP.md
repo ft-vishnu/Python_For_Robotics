@@ -217,12 +217,7 @@ We mainly think:
 
 > *Object-Oriented Programming is a programming approach where programs are organized around objects that contain data and related actions.*
 
-```
-
-**************************************************************************************************
-
-
-# Object Oriented Programming (OOP)
+## Object Oriented Programming (OOP)
 
 *Object-Oriented Programming (OOP)* is a programming paradigm that revolves around the concept of *objects*, which are instances of *classes*.
 
@@ -275,3 +270,6 @@ This enables us to write more *flexible and reusable code* that can work with va
 Abstraction is the process of simplifying complex systems by breaking them down into *smaller, more manageable parts*, focusing on the essential features and hiding the complexities.
 
 In OOP, abstraction is achieved through the use of *classes and interfaces*, which define the essential characteristics and behaviors of an object without revealing their internal implementation details.
+
+
+```
